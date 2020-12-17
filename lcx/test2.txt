@@ -1,2 +1,2 @@
 Added test2 file on master branch.
-Now there is some change on master branch.
+Solved the conflict between master and test-branch-1.
