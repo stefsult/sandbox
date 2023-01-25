@@ -1,1 +1,2 @@
 Create a test file. Now let's solve the conflict.
+Add feature1.
